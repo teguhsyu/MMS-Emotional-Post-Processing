@@ -22,7 +22,7 @@ where:
 - `x` = original inflection value
 - `v` = valence
 - `k` = expressiveness
-- `m` = whether the parameter is active
+- `m` = modulable?
 - `Vmax` = maximum modulation
 - `L`, `U` = lower and upper limits
 
